@@ -1,6 +1,11 @@
 # CamooEmails
 Send emails from your application with CamooEmails API
 
+---
+
+Important: This library requires PHP 5.3 or higher.
+
+
 Quick Examples
 
   default all messages are sending with type "text"
